@@ -1,0 +1,62 @@
+@import 'settings';
+@import 'foundation-emails';
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@600&display=swap');
+@import 'template/template';
+
+.header {
+    padding-bottom: 0;
+    background: white;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Abril Fatface', cursive;
+    text-align: left;
+    padding-bottom: 0;
+    padding-top: 10px;
+}
+
+span {
+    color: #511281;
+}
+hr {
+    margin-bottom: 0;
+    
+}
+
+.header-content {
+    float: left;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'Noto Serif JP', serif; 
+} 
+
+h3 {
+    font-size: 16px;
+}
+
+button {
+    float:left;
+}
+
+p {
+    text-align: left;
+}
+
+h4 {
+    background: #d1d9d9;
+    font-size: 16px;
+    text-align:center;
+    padding-top: 30px;
+}
+
+.footer-end {
+    background: #d1d9d9;
+} .hr-line {
+    border: 2px solid;
+}
+

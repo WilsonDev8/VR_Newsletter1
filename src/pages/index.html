@@ -1,0 +1,43 @@
+---
+layout: index-layout
+subject: My Email Templates
+---
+
+<container>
+  <row>
+    <columns small="12" large="12" class="header">
+      <h1>
+        Virtual Reality <span>News</span>
+      </h1>
+      <hr class="hr-line">
+    </columns>
+  </row>
+  <spacer></spacer>
+  <row>
+    <center>
+    <columns>
+      <img src="https://imgur.com/CmtxG4O.jpeg">
+    </columns>
+  </center>
+  </row>
+  <row>
+  <columns small="12" large="12" class="header-content">
+    <h2>{{NewsletterEmail.HeaderContent.info-header}}</h2>
+    <h3>{{NewsletterEmail.HeaderContent.Date}}</h3>
+  </columns>
+</row>
+<row>
+  <columns small="12" large="12">
+    <p>{{NewsletterEmail.Content.Paragraph1}}</p>
+    <p>{{NewsletterEmail.Content.Paragraph2}}</p>
+    <spacer></spacer>
+    <button href="#" class="alert">{{NewsletterEmail.Button.Link}}</button>
+  </columns>
+</row>
+<row>
+  <columns small="12" large="12" class="footer-end">
+<h4>&COPY;2021 Virtual Reality Newsletter All Rights Reserved</h4>
+  </columns>
+</row>
+</container>
+

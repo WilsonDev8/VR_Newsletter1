@@ -1,0 +1,14 @@
+{
+    "Title":"Virtual Reality News",
+        "HeaderContent": {
+            "info-header": "What Everyone's Saying About Virtual Reality",
+            "Date": "May 23, 20201"
+        },
+        "Content": {
+            "Paragraph1": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, eius mollitia. Perferendis, iste! Porro fuga ratione eum labore voluptate vitae laudantium blanditiis esse, dolore molestiae architecto illo possimus alias sit deserunt aperiam eveniet ipsum amet totam ut, fugit mollitia similique nam. Architecto veniam vitae dolor harum sequi iste soluta ratione.",
+            "Paragraph2": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iusto, eius mollitia. Perferendis, iste! Porro fuga ratione eum labore voluptate vitae laudantium blanditiis esse, dolore molestiae architecto illo possimus alias sit deserunt aperiam eveniet ipsum amet totam ut, fugit mollitia similique nam. Architecto veniam vitae dolor harum sequi iste soluta ratione."
+        },
+        "Button": {
+            "Link": "Register"
+        }
+    }
